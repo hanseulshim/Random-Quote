@@ -1,0 +1,36 @@
+h1{
+	font-size: 50px;
+}
+.message{
+	font-size: 30px;
+}
+.quoteBox{
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10%;
+	background-color:#FFF;
+	padding:3%;
+	border-radius:25px;
+}
+
+#quote{
+	font-size:30px;
+	text-align:center;
+	width:100%;
+}
+#quoteFooter{
+	text-align:right;
+	font-size:20px;
+}
+
+body{
+	background-color:#333;
+	font-family: 'Raleway', sans-serif;
+}
+blockquote{
+	border:none;
+	margin:0;
+	padding:0;
+	margin-bottom:40px;
+}
